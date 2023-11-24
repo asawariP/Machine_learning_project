@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Diabetes-Deployment-With-BeanStalk-main",
+    "\\Diabetes-Deployment-With-BeanStalk-main\\.ebextensions",
+    "\\Diabetes-Deployment-With-BeanStalk-main\\Dataset",
+    "\\Diabetes-Deployment-With-BeanStalk-main\\Model",
+    "\\Diabetes-Deployment-With-BeanStalk-main\\Notebook"
+  ],
+  "SelectedNode": "\\Diabetes-Deployment-With-BeanStalk-main\\Notebook\\Logistic_Regression.ipynb",
+  "PreviewInSolutionExplorer": false
+}
